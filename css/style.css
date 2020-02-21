@@ -720,6 +720,7 @@ input[type="checkbox"]:checked ~ .menu-list {
 
 video {
     object-fit: cover;
+    max-width: 1920px;
 }
 
 .video-item {
@@ -792,9 +793,8 @@ video {
 }
 
 .mobile-content {
-    margin: 160px 400px 0 0;
+    margin: 160px 100px 0 0;
     max-width: 660px;
-    max-height: 330px;
 }
 
 .mobile-title {
